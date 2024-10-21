@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="483efcf9-35fd-4eff-83e1-0f5f94742026" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/WindowsCalcTest/Exp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/WindowsCalcTest/Graphics.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/WindowsCalcTest/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/WindowsCalcTest/Utils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/Buttons/12.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/Buttons/13.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/Buttons/14.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/Buttons/15.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/Buttons/21.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/Buttons/22.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/Buttons/23.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/Buttons/24.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/Buttons/25.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/Buttons/2nd.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/Buttons/31.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/Buttons/32.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/Buttons/33.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/Buttons/34.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/Buttons/35.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/Buttons/41.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/Buttons/42.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/Buttons/43.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/Buttons/44.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/Buttons/45.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/Buttons/51.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/Buttons/52.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/Buttons/53.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/Buttons/54.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/Buttons/55.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/Buttons/61.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/Buttons/62.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/Buttons/63.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/Buttons/64.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/Buttons/65.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/Buttons/71.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/Buttons/72.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/Buttons/73.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/Buttons/74.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/Buttons/75.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/Buttons/CE.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/Buttons/b2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/Buttons/b3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/Buttons/b4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/Buttons/b5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/Buttons/b6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/Buttons/b7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/Buttons/control1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/Buttons/controlE.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/WindowsCalcTest/Button.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/WindowsCalcTest/WindowsCalcTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="2nkEirwLnPnc1CztPAkk0LeYe71" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Application.Main.executor": "Run",
+    "JUnit.WindowsCalcTest.controlButtonTest.executor": "Run",
+    "JUnit.WindowsCalcTest.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "com.codeium.enabled": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Program Files/opencv/build/java/x64/opencv_java4100.dll",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="WindowsCalcTest.controlButtonTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="WindowsCalcTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="WindowsCalcTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="WindowsCalcTest" />
+      <option name="MAIN_CLASS_NAME" value="WindowsCalcTest.WindowsCalcTest" />
+      <option name="METHOD_NAME" value="controlButtonTest(WindowsCalcTest.Button,java.lang.String)" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.WindowsCalcTest.controlButtonTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="483efcf9-35fd-4eff-83e1-0f5f94742026" name="Changes" comment="" />
+      <created>1729508804061</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1729508804061</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
